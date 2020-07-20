@@ -1,0 +1,10 @@
+npm i discord.js
+npm i node-fetch
+
+this bot can be run from your console or a vps. 
+
+To run this bot on your own you must first create an application at https://discord.com/developers/applications.
+
+It is quite easy
+
+once you have all the settings in place just take the bot token generated for you by discord and put it in config.json
